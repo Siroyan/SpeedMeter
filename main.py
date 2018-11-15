@@ -7,7 +7,6 @@ import tkinter.font as font
 root = tk.Tk()
 root.title("KTW SPEED METER")
 root.geometry("600x400")
-print(font.families())
 
 #Left Column Setting
 left = tk.Frame(root, bg="white", relief="flat", bd=0)
