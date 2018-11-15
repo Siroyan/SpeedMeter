@@ -6,7 +6,5 @@ import tkinter as tk
 root = tk.Tk()
 root.title("KTW SPEED METER")
 root.geometry("600x400")
-
-//hoge
-
+    #hoge
 root.mainloop()
