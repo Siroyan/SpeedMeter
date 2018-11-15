@@ -10,4 +10,4 @@ Honda エコマイレッジチャレンジ、Ene1-GP用のスピードメータ�
 表示端末 : 中華製タッチパネルディスプレイ
 
 ## MocUp
-https://github.com/Siroyan/SpeedMeter/blob/master/SpeedMeter_mocup.png?raw=true
+![MocUp](https://github.com/Siroyan/SpeedMeter/blob/master/SpeedMeter_mocup.png?raw=true "MocUp")
